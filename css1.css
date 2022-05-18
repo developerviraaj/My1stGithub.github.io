@@ -1,0 +1,26 @@
+*body{
+	    background-color:black;
+	  }
+	  h1{
+	    color:yellow;
+	  }
+	  h2{
+	    color:red;
+	  }
+	  p{
+	    color:white;
+	  }
+
+      img{
+          width:500px;
+      }
+
+	  ul{
+		  color:white;
+		  list-style: circle;
+
+	  }
+	  ol{
+		  color:whitesmoke;
+		  list-style: lower-roman;
+	  }
